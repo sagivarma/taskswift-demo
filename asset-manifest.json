@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/taskswift-demo/static/css/main.31187e73.chunk.css",
+    "main.js": "/taskswift-demo/static/js/main.ab03a644.chunk.js",
+    "main.js.map": "/taskswift-demo/static/js/main.ab03a644.chunk.js.map",
+    "runtime-main.js": "/taskswift-demo/static/js/runtime-main.7caa40b8.js",
+    "runtime-main.js.map": "/taskswift-demo/static/js/runtime-main.7caa40b8.js.map",
+    "static/js/2.c3ac11c1.chunk.js": "/taskswift-demo/static/js/2.c3ac11c1.chunk.js",
+    "static/js/2.c3ac11c1.chunk.js.map": "/taskswift-demo/static/js/2.c3ac11c1.chunk.js.map",
+    "index.html": "/taskswift-demo/index.html",
+    "precache-manifest.257e86254f7c24a69a0c8d3e24203714.js": "/taskswift-demo/precache-manifest.257e86254f7c24a69a0c8d3e24203714.js",
+    "service-worker.js": "/taskswift-demo/service-worker.js",
+    "static/css/main.31187e73.chunk.css.map": "/taskswift-demo/static/css/main.31187e73.chunk.css.map",
+    "static/js/2.c3ac11c1.chunk.js.LICENSE.txt": "/taskswift-demo/static/js/2.c3ac11c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7caa40b8.js",
+    "static/js/2.c3ac11c1.chunk.js",
+    "static/css/main.31187e73.chunk.css",
+    "static/js/main.ab03a644.chunk.js"
+  ]
+}
